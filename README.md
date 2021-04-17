@@ -13,4 +13,8 @@ Display seats in a movie theatre to select from to purchase tickets
 
 ## Final Product
 
- !["Movie seat booking app"](https://github.com/yuzhakova/.png)
+ !["Movie seat booking app"](https://github.com/yuzhakova/form_validator/blob/main/movie-seat-booking.png)
+
+- JavaScript
+- HTML
+- CSS
